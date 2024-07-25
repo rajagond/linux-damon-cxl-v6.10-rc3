@@ -1,0 +1,1 @@
+/tdata/linux-damon-cxl-v6.10-rc3/scripts/gdb/vmlinux-gdb.py
